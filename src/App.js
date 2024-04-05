@@ -47,7 +47,7 @@ function App() {
   const[number, setNumber] = useState(1);
   const[questionNr, setQuestionNr] = useState(0);
   const[finalScore, setFinalScore] = useState(false);
-  const[showScore, setshowScore] = useState(3)
+  const[showScore, setshowScore] = useState(0)
 
 
   const quizStarted = (event) => {
@@ -72,18 +72,16 @@ function App() {
   }
 
   const resetFunction = () => {
-    setStartBtn(!start);
-    setFinalScore(finalScore)
+    setFinalScore(false);
+    setStartBtn(false);
+    setQuestion(false);
   }
 
   const changequestions = (isCorrect) => {
     if (isCorrect === true){
-      alert('correct')
+      const newScore = showScore + 1
+      setshowScore(newScore)
     }
-    else {
-      alert('incorrect')
-    }
-
     const increment = questionNr + 1
     if (increment < questions.length){
       setQuestionNr(increment)
