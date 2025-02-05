@@ -76,6 +76,13 @@ function App() {
     setStartBtn(false);
     setQuestion(false);
   }
+  
+  const theQuestions = () => {
+    setQuestion(true);
+    setNumber(1);
+    setQuestionNr(0);
+    setshowScore(0)
+  }
 
   const changequestions = (isCorrect) => {
     if (isCorrect === true){
@@ -97,12 +104,13 @@ function App() {
       {!start ? <h1 className='title'>This is a test.</h1> : null}
       {!start ? <button onClick = { () => {
         quizStarted();
-        questionsStarted() 
+        questionsStarted();
+        theQuestions()
       }}
         className='start_test'>Start the test!</button> : null}
       {finalScore ? 
       <>
-      <h2 className='finalScore'>Score {showScore} out of 4</h2>
+      <h2 className='finalScore'>You scored {showScore} out of 4</h2>
       <button onClick = {resetFunction} className='resetBtn'>Reset</button>
       </>
      
