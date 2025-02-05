@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SilviuBadic/Quiz-App-REACT/static/css/main.f4d5a77a.css",
+    "main.js": "/SilviuBadic/Quiz-App-REACT/static/js/main.5444d10a.js",
+    "index.html": "/SilviuBadic/Quiz-App-REACT/index.html",
+    "main.f4d5a77a.css.map": "/SilviuBadic/Quiz-App-REACT/static/css/main.f4d5a77a.css.map",
+    "main.5444d10a.js.map": "/SilviuBadic/Quiz-App-REACT/static/js/main.5444d10a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4d5a77a.css",
+    "static/js/main.5444d10a.js"
+  ]
+}
