@@ -11,19 +11,22 @@ You can check out the live version here:
 https://silviubadic.github.io/Quiz-App-React/
 
 ## Screenshots
-<img width="1050" alt="v1" src="https://github.com/user-attachments/assets/41fe52b5-9614-4880-8685-92a793fa2731" />
+<br>
+<br>
+
+
+<img width="1050" alt="v1" src="https://github.com/user-attachments/assets/3841600b-7b94-45d9-aa77-a443f28c99e9" />
+
 
 <br>
 <br>
-<img width="1050" alt="v2" src="https://github.com/user-attachments/assets/793aea33-bb6b-44e9-8fe0-9178be0a455f" />
 
-
-<br>
-<br>
-<img width="1050" alt="v3" src="https://github.com/user-attachments/assets/8529f384-6cbd-4a5c-ac7b-89b8547cea75" />
+<img width="1050" alt="v2" src="https://github.com/user-attachments/assets/eb8f1d7c-07c1-411b-9b23-5fc32e0977ea" />
+" />
 
 <br>
 <br>
+<img width="1050" alt="v2" src="https://github.com/user-attachments/assets/278cc2fa-8b4e-41b2-aca5-c957e2ee7c8f" />
 
 
 
