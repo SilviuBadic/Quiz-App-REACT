@@ -1,70 +1,76 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Quizz App - REACT
+This is one of my first projects using REACT. It's a simple application built with HTML, a bit of JavaScript and REACT. The interface allows users to decrease or increase the temperature, and dynamically updating the text displayed in the center, and also the background color to reflect the current temperature.
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [https://silviubadic.github.io/Quiz-App-REACT/] to view it in your browser.
+## Demo
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+You can check out the live version here:
+https://silviubadic.github.io/temperature_control/
 
-### `npm test`
+## Screenshots
+<img width="1050" alt="v1" src="https://github.com/user-attachments/assets/4eaf1cdd-77d8-4992-8f19-22878f1c5d3a" />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br>
+<br>
+<img width="1050" alt="v2" src="https://github.com/user-attachments/assets/1f006a48-8fb1-4d25-8899-bdd78d82f0e3" />
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br>
+<br>
+<img width="1050" alt="v3" src="https://github.com/user-attachments/assets/d8dd352d-88eb-43b6-949d-89452359c456" />
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br>
+<br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+https://github.com/user-attachments/assets/b6bb7921-2037-4a2d-b9fc-f9381bd03c66
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Features
+- Interactive buttons to increase or decrease the temperature 
+- Background color chances dynamically based on user's choices.
+- Feedback provided dynamically if a certain degree is reached.
 
-### Making a Progressive Web App
+## Lessons Learned
+First of all, DOM Manipulation, event handling and dynamic styling are some lessons learned while creating this app. Also the use of State.
+## Optimizations
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+It was pretty simple app in which I've practiced a bit about the things I've spoken earlier.
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+## Related
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Here are some related projects of mine (improvements)
 
-### `npm run build` fails to minify
+[To-Do-List-JavaScript](https://github.com/SilviuBadic/to-do-list-javascript) 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Tic-Tac-Toe](https://github.com/SilviuBadic/tic-tac-toe-javascript)
+
+
+## 🛠 Skills used in this project
+- HTML
+- CSS
+- JavaScript
+- React.JS
+- Visual Studio Code
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/SilviuBadic)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silviu-nicolae-badicel-8ab9b01b3/)
+
+
+
