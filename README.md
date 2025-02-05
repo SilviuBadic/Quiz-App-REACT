@@ -58,7 +58,7 @@ https://github.com/user-attachments/assets/89c0615f-8e50-47db-9431-1bfd6efe5742
 
 Here are some related projects of mine (improvements)
 
-[Temperature-Control-React](https://github.com/SilviuBadic/temperature_control) 
+[Temperature-Control-React](https://silviubadic.github.io/Temperature_Control-React/) 
 
 [To-Do-List-React](https://github.com/SilviuBadic/todo_react)
 
