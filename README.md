@@ -32,10 +32,6 @@ https://silviubadic.github.io/Quiz-App-React/
 
 
 
-https://github.com/user-attachments/assets/b6bb7921-2037-4a2d-b9fc-f9381bd03c66
-
-
-
 
 
 https://github.com/user-attachments/assets/89c0615f-8e50-47db-9431-1bfd6efe5742
