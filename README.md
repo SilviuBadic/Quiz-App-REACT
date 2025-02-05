@@ -1,26 +1,26 @@
 
 
 # Quizz App - REACT
-This is one of my first projects using REACT. It's a simple application built with HTML, a bit of JavaScript and REACT. The interface allows users to decrease or increase the temperature, and dynamically updating the text displayed in the center, and also the background color to reflect the current temperature.
+This is a small interactive quiz built with React. You can choose an answer and see how much you know about capitals. At the end you'll receive a feedback on your score. You can reset the score and play the game again.
 
 
 
 ## Demo
 
 You can check out the live version here:
-https://silviubadic.github.io/temperature_control/
+https://silviubadic.github.io/Quiz-App-React/
 
 ## Screenshots
-<img width="1050" alt="v1" src="https://github.com/user-attachments/assets/4eaf1cdd-77d8-4992-8f19-22878f1c5d3a" />
+<img width="1050" alt="v1" src="https://github.com/user-attachments/assets/41fe52b5-9614-4880-8685-92a793fa2731" />
 
 <br>
 <br>
-<img width="1050" alt="v2" src="https://github.com/user-attachments/assets/1f006a48-8fb1-4d25-8899-bdd78d82f0e3" />
+<img width="1050" alt="v2" src="https://github.com/user-attachments/assets/793aea33-bb6b-44e9-8fe0-9178be0a455f" />
 
 
 <br>
 <br>
-<img width="1050" alt="v3" src="https://github.com/user-attachments/assets/d8dd352d-88eb-43b6-949d-89452359c456" />
+<img width="1050" alt="v3" src="https://github.com/user-attachments/assets/8529f384-6cbd-4a5c-ac7b-89b8547cea75" />
 
 <br>
 <br>
@@ -35,29 +35,33 @@ https://github.com/user-attachments/assets/b6bb7921-2037-4a2d-b9fc-f9381bd03c66
 
 
 
+https://github.com/user-attachments/assets/89c0615f-8e50-47db-9431-1bfd6efe5742
+
+
+
 
 
 
 ## Features
-- Interactive buttons to increase or decrease the temperature 
-- Background color chances dynamically based on user's choices.
-- Feedback provided dynamically if a certain degree is reached.
+- Multiple choice questions
+- Score tracking (at the end)
+- Reset quiz (start the quiz again)
+- Responsive design
+
 
 ## Lessons Learned
-First of all, DOM Manipulation, event handling and dynamic styling are some lessons learned while creating this app. Also the use of State.
-## Optimizations
-
-It was pretty simple app in which I've practiced a bit about the things I've spoken earlier.
-
-
+- Structuring and organizin a React project
+- Deploying by using gh-pages to publish my app
+- Interactivity with useState
+- Got a better understanding of how React re-renders components when state changes.
 
 ## Related
 
 Here are some related projects of mine (improvements)
 
-[To-Do-List-JavaScript](https://github.com/SilviuBadic/to-do-list-javascript) 
+[Temperature-Control-React](https://github.com/SilviuBadic/temperature_control) 
 
-[Tic-Tac-Toe](https://github.com/SilviuBadic/tic-tac-toe-javascript)
+[To-Do-List-React](https://github.com/SilviuBadic/todo_react)
 
 
 ## 🛠 Skills used in this project
